@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Eyob+Seleshi+%7C+Full+Stack+Developer" alt="Eyob Seleshi Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Eyob+Seleshi+%7C+Full+Stack+Developer" alt="Eyob Seleshi Typing">
 </p>
+
 
 <p align="center">
   <strong>5th Year Software Engineer | Full Stack Developer</strong>
@@ -14,8 +15,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/eyob-seleshi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/eyobseleshi-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://eyob-dev-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -97,9 +98,8 @@ I build **end-to-end applications** with robust backend architectures, enabling 
 
 ## 📫 How to Reach Me
 <p align="center">
-  <strong>Email:</strong> messieyob346@gmail.com  
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/eyob-seleshi/">Eyob Seleshi</a>  
-  <strong>Portfolio:</strong> <a href="https://your-portfolio-website.com">Eyob's Portfolio</a>
+  <strong>Email:</strong> messieyob346@gmail.com  <br>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eyobseleshi-dev">Eyob Seleshi</a>  
 </p>
 
 ---

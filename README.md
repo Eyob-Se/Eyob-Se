@@ -2,166 +2,59 @@
 
 # Hey, I'm Eyob 👋
 
-### Software Engineer · Full-Stack Developer
+### Software Engineer | Full-Stack Developer
 
-Software Engineering graduate focused on building **modern web and mobile applications** with clean interfaces, reliable backend systems, and practical user experiences.
+I build web and mobile applications with a focus on useful interfaces, dependable backend systems, and practical problem-solving.
 
-<br>
-
-<a href="https://linkedin.com/in/eyobseleshi-dev">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://eyob-dev-portfolio.netlify.app">
-  <img src="https://skillicons.dev/icons?i=vercel" width="36" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:messieyob346@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="36" />
-</a>
+<p>
+  <a href="https://eyob-dev-portfolio.netlify.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/eyobseleshi-dev/">LinkedIn</a> ·
+  <a href="mailto:messieyob346@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## `01 — Technologies`
+## About Me
 
-<div align="center">
+I'm a Software Engineering graduate interested in full-stack development, geospatial applications, and building software that solves real problems. I enjoy working across the frontend and backend, learning from practical projects, and improving the quality of the systems I build.
 
-### Frontend
+## Selected Projects
 
-<br>
+### [WebGIS Spatial Data Platform](https://github.com/Eyob-Se/SSGI-project)
+A web-based GIS application built during my internship at the Space Science and Geospatial Institute. The project uses React, Node.js/Express, and PostgreSQL to support working with spatial data. My contributions included frontend development and parts of the backend.
 
-<img src="https://skillicons.dev/icons?i=react" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+### [Lang-Scribe](https://github.com/Eyob-Se/Lang-Scribe-pro)
+A transcription and translation web application. Explore the repository for its implementation details and current capabilities.
 
-<br><br>
+### [My Portfolio](https://eyob-dev-portfolio.netlify.app)
+A personal portfolio presenting my work, skills, and development journey.
 
-</div>
-  
-<div align="left">
-  
-### Backend & Databases
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" />
-
-<br>
-
-</div>
-
-<div align="right">
-
-### Tools & Environment
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=docker" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="48" />
-
-</div>
+### DMU Campus Navigator
+A team final-year project for navigating the Debre Markos University campus. Built with React Native, TypeScript, and MapLibre. My contributions included the frontend and backend routing system. The source repositories are private.
 
 ---
 
-## `02 — What I Do`
+## Technologies
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Full-Stack Development
-
-Building complete applications from **interface to backend**, with a focus on clean architecture and usability.
-
-</td>
-
-<td width="50%" align="center">
-
-### Backend Engineering
-
-Designing **APIs, services, authentication, and databases** for reliable applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### Mobile Development
-
-Creating **cross-platform mobile experiences** with modern development tools.
-
-</td>
-
-<td width="50%" align="center">
-
-### Infrastructure
-
-Working with **Docker, Linux, deployment, and cloud technologies** to ship applications.
-
-</td>
-</tr>
-</table>
-
-</div>
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express, Python  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools & Environment:** Git, GitHub, Linux, Docker
 
 ---
 
-## `03 — Currently`
+## What I'm Working On
 
-<div align="center">
-
-🗺️ **DMU Campus Navigator**
-Building a campus navigation platform for Debre Markos University.
-
-<br>
-
-☁️ **Cloud & DevOps**
-Exploring deployment, infrastructure, and scalable application architecture.
-
-<br>
-
-🔐 **Security**
-Developing stronger knowledge of secure software and cloud security.
-
-<br>
-
-📚 **Always Learning**
-Improving my engineering skills through real-world projects.
-
-</div>
+- Improving my full-stack engineering skills through practical projects.
+- Building and refining geospatial and navigation applications.
+- Strengthening my knowledge of deployment and software architecture.
 
 ---
 
 <div align="center">
 
-### `build` · `learn` · `improve`
-
-<sub>Thanks for stopping by.</sub>
+**Build · Learn · Improve**
 
 </div>
